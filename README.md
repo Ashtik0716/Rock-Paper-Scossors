@@ -52,13 +52,13 @@ Play against the computer and track your score in real-time!
 ## 📂 Project Structure
 
 Rock-Paper-Scissors/
-│── index.html
-│── style.css
-│── app.js
-│── images/
-├── rock.png
-├── paper.png
-└── scissor.png
+-│── index.html
+-│── style.css
+-│── app.js
+-│── images/
+-├── rock.png
+-├── paper.png
+-└── scissor.png
 
 ## ⚙️ Installation & Usage
 
